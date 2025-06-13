@@ -5,7 +5,7 @@ In this comprehensive blog post, we explore two powerful generative models in de
 2. GANs with Binary Cross-Entropy (BCE) and Wasserstein loss for MNIST.
 3. Regularized VAEs and stabilized GANs (WGAN-GP) for Fashion-MNIST.
 
-By the end, you’ll understand how these models work, how to implement them, and how to enhance their performance with regularization techniques.
+By the end, we’ll understand how these models work, how to implement them, and how to enhance their performance with regularization techniques.
 
 ## Introduction to Generative Models
 
