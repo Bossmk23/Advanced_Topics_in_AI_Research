@@ -197,7 +197,8 @@ generate_and_plot_images(vae)
 ### Results
 Generated images resemble digits but may be blurry due to the 2D latent space. Increasing `latent_dim` (e.g., 10) improves quality.
 
-![Generated MNIST digits](attachment://vae_mnist_digits.png)
+![b59a57f3-a583-4a5e-a8a3-a908df905633](https://github.com/user-attachments/assets/fd4f8308-9180-4d8b-896a-a5b61c912a77)
+
 
 ## Part 2: Exploring GAN Loss Functions with MNIST
 
@@ -361,7 +362,8 @@ plt.show()
 ### Results
 BCE loss produces digit-like images after 10 epochs, but they may be blurry. Wasserstein loss requires weight clipping or gradient penalty for stability, not implemented here.
 
-![Generated MNIST digits at epoch 10](attachment://gan_mnist_digits_epoch_10.png)
+![3827a5e8-55b5-402b-ba2b-33151246c1a9](https://github.com/user-attachments/assets/e55edead-38a2-4895-90e3-ec1fcd9c5491)
+
 
 Sample output:
 ```
@@ -646,10 +648,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
+![b18d3cb8-fcba-440d-b355-066fa72f0fe3](https://github.com/user-attachments/assets/7a4ae87b-3997-423f-8ce4-f56aa9a10b2c)
 
-![VAE Loss Comparison](attachment://vae_fashionmnist_loss.png)
-
-![Vanilla vs. Regularized VAE](attachment://vae_fashionmnist_images_epoch_15.png)
 
 Sample output:
 ```
@@ -681,10 +681,8 @@ plt.ylim(-50, 50)
 plt.grid(True)
 plt.show()
 ```
+![8e11448e-6034-486a-8396-eb523339080e](https://github.com/user-attachments/assets/bcd1de4f-8609-427f-8c45-cfe5ebc9ec87)
 
-![GAN Loss Comparison](attachment://gan_fashionmnist_loss.png)
-
-![Base vs. Stable GAN](attachment://gan_fashionmnist_images_epoch_25.png)
 
 Sample output:
 ```
