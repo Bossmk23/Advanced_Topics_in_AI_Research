@@ -28,9 +28,9 @@ This repository contains the complete deliverables for our project on **Generati
 
 | Type            | Description                                         | File(s)                                                                 |
 |-----------------|-----------------------------------------------------|-------------------------------------------------------------------------|
-|  Report        | Full research report with theory, implementation, results | `Research Report.docx` / `Formatted_Research_Report.docx`               |
+|  Report        | Full research report with theory, implementation, results | `Research Report(1).docx` / `Formatted_Research_Report.docx`               |
 |  Presentation | Summary of findings, visuals, and comparisons       | `Generative Adversarial Networks Ppt task.pptx` / Redesigned version    |
-|  Code         | Jupyter Notebooks for VAE, GAN, and regularization  | `code`|
+|  Code         | Jupyter Notebooks for VAE, GAN, and regularization  | `_VAE_GAN_Code (1).ipynb`|
 |  Blog  | Contains a deep explained code blog              | `generative_models_comprehensive_guide.markdown`                                          |
 
 ---
