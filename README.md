@@ -58,7 +58,7 @@ Explore advanced models such as:
 
 - Manika Singh  
 - Seema Verma  
-- Sabha Abrahim  
+- Sabha Ambrin  
 - Gaurav Singh Parihar
 
 ---
